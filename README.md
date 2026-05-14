@@ -13,7 +13,9 @@
 ![Пример](/images/image2.png)
 
 И наоборот:
+
 ![Пример](/images/image3.png)
+
 В игре вы увидите такой формат:
 
 > <span style="color:#8EC8FF">Привет! Как дела?</span>  
