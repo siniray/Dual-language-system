@@ -6,11 +6,11 @@
 
 ---
 
-![Пример](/images/image.png)
-![Пример](/images/image2.png)
+Скачать здесь - [*клац*](https://github.com/siniray/Dual-language-system/releases/tag/dual_language)
 
 ## Как это выглядит?
-
+![Пример](/images/image.png)
+![Пример](/images/image2.png)
 В игре вы увидите такой формат:
 
 > <span style="color:#8EC8FF">Привет! Как дела?</span>  
